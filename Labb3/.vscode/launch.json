@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Clause",
+            "request": "launch",
+            "mainClass": "Clause",
+            "projectName": "Labb3_4a3f5a96"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - KnowledgeBase",
+            "request": "launch",
+            "mainClass": "KnowledgeBase",
+            "projectName": "Labb3_4a3f5a96"
+        }
+    ]
+}
